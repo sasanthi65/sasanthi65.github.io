@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.63208374.css",
-    "main.js": "/static/js/main.171228d3.js",
+    "main.css": "/static/css/main.80475f9c.css",
+    "main.js": "/static/js/main.f1d994ad.js",
     "static/media/profile.jpg": "/static/media/profile.52a088e4cb5ef73bc3ea.jpg",
+    "static/media/work3.jpg": "/static/media/work3.6e69ed65f6b65af6d44f.jpg",
+    "static/media/work1.jpg": "/static/media/work1.cc7189659d649a60615f.jpg",
     "static/media/Sasanthi Lakmini CV.pdf": "/static/media/Sasanthi Lakmini CV.36adfac176c53270269a.pdf",
-    "static/media/work2.jpg": "/static/media/work2.e52a0c2981a6c11ba468.jpg",
-    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work4.jpg": "/static/media/work4.265e98b3f17861bdc21a.jpg",
+    "static/media/work6.jpg": "/static/media/work6.35db03233226e59de851.jpg",
+    "static/media/work5.jpg": "/static/media/work5.89022dbac69a1b86b1c3.jpg",
+    "static/media/work2.jpg": "/static/media/work2.9586f37953e1fe0ada36.jpg",
     "index.html": "/index.html",
-    "main.63208374.css.map": "/static/css/main.63208374.css.map",
-    "main.171228d3.js.map": "/static/js/main.171228d3.js.map"
+    "main.80475f9c.css.map": "/static/css/main.80475f9c.css.map",
+    "main.f1d994ad.js.map": "/static/js/main.f1d994ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.63208374.css",
-    "static/js/main.171228d3.js"
+    "static/css/main.80475f9c.css",
+    "static/js/main.f1d994ad.js"
   ]
 }
